@@ -19,3 +19,7 @@
 * a heatmap was ploted to show the correlations between any combination of two variables, and it shows that the correlation between sentiment and all other variables were not very strong, indicating that there is no trivial linear relationships between any single factor and people's happiness on a county level
 * For example, when exploring the relationship between people's happiness and the population size, we found that people are the happiness in counties with moderate population size, compared with small or large population size
 *  more EAD are need to find interesting patterns
+* decision tree regressor and random forest regressor are run to explore the importance of these demographic and socia-economic information in terms of incluencing people's happiess
+* explained variance is used as the metric
+* we did not get a high explained variance, indicating that external factors that are not included in this analysis might play a more important role. We leave this as a further direction
+* the top 10 important features are those related with population composition, population size, employment rate, the way people are employed, the way people communte to work
