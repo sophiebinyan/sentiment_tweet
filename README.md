@@ -1,4 +1,7 @@
 # mapping people's happyness over the continental US based on tweets
+* This analysis is useful to people who are seeking to move from one state to another
+* It is also potentially useful to business owners who are interested to see how users' satisfaction with their product or service vary from location to lication and propose appropriate marketing strategies
+
 ## 1. processing tweets
 * about a million tweets over one year from 2017/05 to 2018/04 over the globe were downloaded
 * tweets were filtered by keeping those writen in English and geo-taged
